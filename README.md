@@ -1,6 +1,6 @@
 # Criminal Counter
 
-> Tracking how many days your friend hasn't hit Criminal rank.
+> Tracking how many days your friend hasn't hit Criminal rank. Tom, we love you buddy.
 
 ## Deploy to Vercel (2 minutes)
 

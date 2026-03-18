@@ -112,7 +112,7 @@ export default function Home() {
           </div>
           <h1 className={styles.title}>DAYS WITHOUT</h1>
           <h2 className={styles.subtitle}>
-            <span className={styles.rankWord}>CRIMINAL</span> RANK
+            <span className={styles.rankWord}>TOM IS CRIMINAL</span>
           </h2>
           <p className={styles.subjectLine}>
             SUBJECT:{" "}
